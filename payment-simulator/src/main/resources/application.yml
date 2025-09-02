@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: payment-simulator
+
+server:
+  port: 8082
